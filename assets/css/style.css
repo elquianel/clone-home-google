@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 8vh;
+    background-color: #f2f2f2;
+}
+
+footer #country{
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+}
+
+#country p{
+    margin-left: 25px;
+    color: #70757a;
+}
