@@ -77,6 +77,13 @@ main .input-search .btns{
     margin: 2% 0 0 0;
 }
 
+main .btns button{
+    border: none;
+    margin: 10px 20px;
+    width: 150px;
+    padding: 5% 3%;
+}
+
 main .img{
     margin: 5% 0 0 0;
 }
